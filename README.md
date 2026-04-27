@@ -1,4 +1,4 @@
 # mock-blockchain-release
 Repo to mock blockchain releases
 
-v1.0.3
+v1.0.4
