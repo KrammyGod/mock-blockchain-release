@@ -1,2 +1,4 @@
 # mock-blockchain-release
-Repo to mock blockchain releases
+Mocks blockchain releases such as hardforks, new amendments, or other upgrade scenarios.
+
+v1.0.0
